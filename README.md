@@ -1,2 +1,2 @@
 # SnakeGAME
-Cosole Based Snake Eating Food Game
+Console Based Snake Eating Food Game
